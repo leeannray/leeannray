@@ -14,5 +14,5 @@ I’m a California-born turned Texan web developer and designer who recently gra
 - 💬 Ask me about: anything!
 - 📫 How to reach me: leeann.n.ray@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I was and am a molecular biologist, immunologist, and former medical student. I am also a human rights advocate and proud NFL granddaughter
+- ⚡ Fun fact: I was and am a molecular biologist, immunologist, and former medical student--I completed three years of medical school before switching careers to my true passion of software development. I am also a human rights advocate and proud NFL granddaughter
 
