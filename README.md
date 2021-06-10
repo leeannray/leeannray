@@ -14,7 +14,7 @@ I’m a California-born turned Texan web developer and designer who recently gra
 - 💬 Ask me about: anything!
 - 📫 How to reach me: leeann.n.ray@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: formerly I was an Immunologist. I completed my undergraduate degree at UC Berkeley, majoring in Molecular Biology and Virology, and three years of medical school at University of Cincinnati before switching careers to my true passion: software development. 
+- ⚡ Fun facts: formerly, I was an Immunologist. I completed my undergraduate degree at UC Berkeley, majoring in Molecular Biology and Virology, and three years of medical school at University of Cincinnati before switching careers to my true passion: software development. 
 
 *"Others have seen what is and asked why. I have seen what could be and asked why not." -Pablo Picasso*
 
