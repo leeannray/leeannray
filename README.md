@@ -16,3 +16,5 @@ I’m a California-born turned Texan web developer and designer who recently gra
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was and am a molecular biologist, immunologist, and former medical student--I completed three years of medical school before switching careers to my true passion of software development. I am also a human rights advocate and proud NFL granddaughter
 
+*"Others have seen what is and asked why. I have seen what could be and asked why not." -Pablo Picasso*
+
