@@ -10,7 +10,7 @@ I’m a California-born turned Texan web developer and designer who recently gra
 - 🖥  I’m currently working on: responsive web apps at the client-level,specifically UI/UX design and web apps developed using React
 - ❔ I’m currently learning: more about graphic design and typography in addition to React--my favorite framework! I also want to strengthen my back-end development skills including cloud-based systems
 - 🗯 I’m looking to collaborate on: anything!
-- 💭 I’m looking for help with: graphic design, illustrations, animations, and 3D designs
+- 💭 I’m looking for help with: graphic design, illustrations, animations, and 3D designs, cloud-based systems, AWS, and Angular
 - 💬 Ask me about: anything!
 - 📧 How to reach me: leeann.n.ray@gmail.com
 - 👩🏻‍🦳 Pronouns: she/her
