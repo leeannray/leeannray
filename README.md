@@ -12,7 +12,7 @@ I’m a California-born turned Texan web developer and designer who recently gra
 - 🗯 I’m looking to collaborate on: anything!
 - 💭 I’m looking for help with: graphic design, illustrations, animations, and 3D designs, cloud-based systems, AWS, and Angular
 - 💬 Ask me about: anything!
-- 📧 How to reach me: leeann.n.ray@gmail.com
+- 📧 How to reach me: github.leeray@gmail.com
 - 👩🏻‍🦳 Pronouns: she/her
 - 🧠 Fun facts: formerly, I was an Immunologist. I completed my undergraduate degree at UC Berkeley, majoring in Molecular Biology and Virology (👩🏼‍🔬), and three years of medical school at University of Cincinnati (👩🏼‍⚕️) before switching careers to my true passion: software development (👩🏼‍💻). 
 
